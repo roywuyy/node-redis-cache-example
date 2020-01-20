@@ -49,7 +49,7 @@
 - 通过命令auth 密码 来进行登录
 
 
-## 项目启动
+## 启动
 ### 初始化 package.json
 - npm init -y
 ### 安装依赖
@@ -63,3 +63,6 @@
 - 确保redis服务启动着
 - 运行npm run start 
 - 输入http://localhost:3000/repos/:username :username为github上的一个用户的名字
+
+## License
+MIT
