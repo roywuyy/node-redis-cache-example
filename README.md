@@ -1,4 +1,4 @@
-#在windows上 Node.js和koa-v2使用redis demo
+# 在windows上 Node.js和koa-v2使用redis demo
 
 ## redis安装，下载和使用
 ### 下载 redis 和使用 Windows下Redis安装配置和使用注意事项: [转自](https://www.cnblogs.com/LMJBlogs/p/11550170.html)
